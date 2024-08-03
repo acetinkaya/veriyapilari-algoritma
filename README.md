@@ -1,7 +1,6 @@
 ## “Makineler Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 ## Teknoloji, Yazılım ve Algoritma Geliştirmeyi Gençlere öğretmemiz lazım !!!!!!!
 
 ## Geleceğin Bilim İnsanları için geleceğin yazılım ile olacağının önemi vurgulanmalı !!!! 
