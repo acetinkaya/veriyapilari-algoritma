@@ -22,3 +22,5 @@
 1. Yaşamınızın merkezinde algoritma geliştirmeyi almak önemlidir,
 2. Sisteme entegre edilebilecek şekilde algoritma geliştirilmesi önemlidir,
 3. Fikri Mülkiyet Haklarınızı (TPMK Fikri ve Sınai Mülkiyet Hakları) almak ve korumak önemlidir.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
