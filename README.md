@@ -34,3 +34,19 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Eğitimin Amacı: Algoritma Geliştirme ve Analiz işlemlerinde uygulama + teorik şeklinde bütünleştirilerek tümleşik bir sistemin ortaya çıkarılması
+
+## Eğitiminlerin Kazanımları
+
+* Algoritma Geliştirme çalışmalarında Türkçe literatürün önemi
+* Algoritma Geliştirme çalışmalarında Türkçe verilerin işleyebilmenin önemli
+* Algoritma Geliştirme ile bütünleşen gerçek verilerin işlerken karşılaşılan sorunlara çözümler üretebilme
+* Oluşan çözümlerin gerçek hayat verileri olarak nasıl kullanılabileceği
+* Algoritma Geliştirme kapsamında bilinç ve farkındalık oluşturabilmek
+* Yaşadığımız şehrin, ilçenin, evinizin verilerine ortak çözümler geliştirebilmek - üretebilmek
+* Algoritma Geliştirme Türkçe Açık Kaynak Geliştiriciliğin önemi
+* Kurumlarımızın verilerine akademinin işbirliği - aracılığı ile çözümlerin ortaya koyabilmesi
+* Ülkemizin Açık Kaynak Veri Paylasımı noktasındaki çalışmaları dünyaya tanıtma ve duyurma
+* Açık kaynak verinin işlenmesinde işlem aşamaları
+* Etkileşimli çalışma ile algoritmalarının sistemsel bütünlüğünü öğrenme
+* Algoritma Geliştirme alanında sürdürülebilirlik sağlanması
+* Algoritma Geliştirme çalışmalarında gelişimin öğrenerek sağlanabilmesi
