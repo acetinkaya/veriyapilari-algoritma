@@ -266,8 +266,6 @@ Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sür
 
 3.4. -> İşlemler:
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
-
     print("Merhaba, Avcılar!")
 
     import sys
