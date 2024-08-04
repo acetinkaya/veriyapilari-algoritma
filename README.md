@@ -54,4 +54,5 @@
 * ## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
 
