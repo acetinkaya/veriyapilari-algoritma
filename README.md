@@ -80,4 +80,13 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## <--Programlama Dillerine Kontrol Yapıları ve Akış Şeması-->
+
+C++; if / if-else / switch-case 
+
+C#; if/ if-else / swictch-case
+
+Python; if / if-elif-else / switch-case
+
+Java; if / if-else / switch-case
 
