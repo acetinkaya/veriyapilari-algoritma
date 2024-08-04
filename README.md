@@ -50,3 +50,6 @@
 * Etkileşimli çalışma ile algoritmalarının sistemsel bütünlüğünü öğrenme
 * Algoritma Geliştirme alanında sürdürülebilirlik sağlanması
 * Algoritma Geliştirme çalışmalarında gelişimin öğrenerek sağlanabilmesi
+
+* ## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
+
