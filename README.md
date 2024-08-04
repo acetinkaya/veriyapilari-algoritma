@@ -208,3 +208,46 @@ Colaboratory -->
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2.8. Aşama -> 
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-8.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## (2. ARA ) GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. ŞİMDİ YAPAY ZEKA (YZ) KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİNE GEÇİLECEKTİR!!
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bölüm 3. -> 
+
+3.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
+
+            print("Merhaba, Avcılar!") 
+
+ve 
+
+        import sys
+        print(sys.version)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-10.png)
+
+kodları ile bağlantı kurgu sürecine başlıyoruz. 
+
+        from google.colab import drive
+        
+        drive.mount('/content/drive')
+
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli04.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.2. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
+
+    import os
+    
+    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    
+    !pwd
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli05.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
