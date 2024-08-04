@@ -144,3 +144,27 @@ Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## (1. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 2. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
+
+2.1. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-1.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-2.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-3.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-4.png)
+
+Colaboratory -->
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-7.png)
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
+
+
