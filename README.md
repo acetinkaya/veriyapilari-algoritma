@@ -52,4 +52,5 @@
 * Algoritma Geliştirme çalışmalarında gelişimin öğrenerek sağlanabilmesi
 
 * ## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
 
