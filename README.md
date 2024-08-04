@@ -127,8 +127,8 @@ Java; while, do-while ve for
 # 5. Google Scholar
 # 6. Dergipark
 # 7. IEEE
-# 2. YÖK Tez ve Makale Yayınları
-# 3. Kongre Yayınları
+# 8. YÖK Tez ve Makale Yayınları
+# 9. Kongre Yayınları
 
 Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
