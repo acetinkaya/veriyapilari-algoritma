@@ -251,3 +251,53 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli05.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.3. -> Veri Görselleme teknikleriyle Doğru İşleml Sürecinin Başlatılması
+
+Sizlerle Paylaşılmış Olan "yz-ikinci-islemler.ipynb" dosyası üzerinde işlemler gerçekleştirilmiştir ve sonuçlarıyla birlikte verilmiştir. Sizlerde aynı işlemleri gerçekleştirerek aynı sonucu elde edilmesi gerekmektedir.
+
+Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sürecinizi kontrol edebilirsiniz. Benim tavsiyem Tüm koda yeniden başlamaktadır. 
+
+Çünkü bunu yapmaz iseniz hatanızı bulamazsınız. Buradaki amac en az hata ile sürecin kontrolünü öğürenmektir.
+
+Şimdi Koda Yeniden başlıyoruz...
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.4. -> İşlemler:
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-3.png)
+
+    print("Merhaba, Avcılar!")
+
+    import sys
+    print(sys.version)
+    
+    #Google Colab'a Google Drive Bağlantısı
+    from google.colab import drive
+    drive.mount('/content/drive')
+
+    #Google Drive'daki Dosyaya Erişim Bağlantısı
+    import os
+    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    !pwd
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_1.png)
+
+-----------------
+
+    import os
+    import pandas as pd
+    
+    VeriSetiYolu = '/content/drive/My Drive/YapayZekaIstanbul/VeriSetleri'
+    
+    # VeriSetiYolu içindeki .csv dosyalarını bul ve say
+    csv_dosyaları = [dosya for dosya in os.listdir(VeriSetiYolu) if dosya.endswith('.csv')]
+    
+    # .csv dosya sayısını ekrana yazdır
+    csv_dosya_sayisi = len(csv_dosyaları)
+    print(f"VeriSetiYolu içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
