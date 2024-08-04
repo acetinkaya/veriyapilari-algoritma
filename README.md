@@ -123,6 +123,13 @@ Java; while, do-while ve for
 # 2. Google Drive
 # 3. Google Colab
 
+# 4. Kaggle
+# 5. Google Scholar
+# 6. Dergipark
+# 7. IEEE
+# 2. YÖK Tez ve Makale Yayınları
+# 3. Kongre Yayınları
+
 Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
 1.7. Aşama -> Google Drive Sistemini Aktif Edin
