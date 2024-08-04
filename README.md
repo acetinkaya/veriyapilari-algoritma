@@ -61,3 +61,4 @@
 
 ## Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
