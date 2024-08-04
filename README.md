@@ -107,3 +107,11 @@ Java; while, do-while ve for
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Bir Programlama Dili Öğrenimininde Akış Şeması
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.jpg)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 1. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
