@@ -55,4 +55,5 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
 
