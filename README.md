@@ -66,7 +66,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Peki Algoritma Geliştirme İşlemi için Hangi Yazılım Geliştirmede Platformunu Kullanmalıyız? 
-# IEEE (Institute of Electrical and Electronics Engineers) https://www.ieee.org/ 
+# IEEE (Institute of Electrical and Electronics Engineers) Yaklaşık 140 yıllık bilgi paylaşımı için aktif kullanılan bir platformdur. 
+# IEEE Moddosu: Advancing technology for humanity -> Erişim adresi: https://www.ieee.org/ 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-1.png)
 
