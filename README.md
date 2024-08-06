@@ -130,7 +130,7 @@ Java; while, do-while ve for
 # 8. YÖK Tez ve Makale Yayınları
 # 9. Kongre Yayınları
 
-Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+Bilgisayarınızda Masaüstünde "VERIYAPILARI_ISTKA" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
 1.1. Aşama -> Google Drive Sistemini Aktif Edin
 
