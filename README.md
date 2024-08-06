@@ -132,21 +132,15 @@ Java; while, do-while ve for
 
 Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
-1.7. Aşama -> Google Drive Sistemini Aktif Edin
+1.1. Aşama -> Google Drive Sistemini Aktif Edin
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.8. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
+1.2. Aşama -> Google Drive Alanında "VERIYAPILARI_ISTKA" ismiyle yeni klasör oluşturun
    
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-1.9. Aşama -> Google Drive Alanında "VERIYAPILARI_ISTKA" ismiyle yeni klasör oluşturun
-   
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## (1. ARA ) VERİ SETİ BULMA ve DRIVE ALANINA YÜKLEME İŞLEMLERİ TAMAMLANMIŞTIR. ŞİMDİ ÇALIŞMA ORTAMININ HAZIRLANAMSI İŞLEMLERİ GERÇEKLEŞTİRİLECEKTİR. 
