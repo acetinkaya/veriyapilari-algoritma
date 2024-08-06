@@ -144,7 +144,7 @@ Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.9. Aşama -> Google Drive Alanında "YapayZekaIstanbul" ismiyle yeni klasör oluşturun
+1.9. Aşama -> Google Drive Alanında "VERIYAPILARI_ISTKA" ismiyle yeni klasör oluşturun
    
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli03.png)
 
