@@ -140,7 +140,7 @@ Bilgisayarınızda Masaüstünde "ISTKA_ALGORITLAMAR" ismiyle acacağınız yeni
 
 1.8. Aşama -> Google Drive Bağlantı Süreçlerini Gerçekleştirin
    
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli02.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
