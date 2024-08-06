@@ -200,7 +200,7 @@ Colaboratory -->
 
 2.7. Aşama -> 
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-7.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Veriyapilari-colab3.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
