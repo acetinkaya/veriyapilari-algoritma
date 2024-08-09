@@ -79,10 +79,10 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-3.png )
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Akış Şeması ve Simgeler-->
+## <-- Akış Şeması ve Simgeler -->
 
 
-## <--Programlama Dillerine Kontrol Yapıları -->
+## <-- Programlama Dillerine Kontrol Yapıları -->
 
 C++; if / if-else / switch-case 
 
