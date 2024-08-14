@@ -308,20 +308,12 @@ NOT: İlgili veri setinin ezbere kod yazımı veya kopyala-yapıştır şeklinde
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-2.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-4.png)
 
-![alternatif metin](
-https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-4.png
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png)
 
-
-![alternatif metin](
-https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.6. -> CSV formatına EXCEL Dosyasında Geçiş
 
