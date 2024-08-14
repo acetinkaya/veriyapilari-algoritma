@@ -320,7 +320,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
       # İşlem tamamlandığında kaç tane excel dosyası var ise o kadar *.csv formatına çevildiğinin
       # bilgisini almaktayız
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel1.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel2.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -338,7 +338,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
       csv_dosya_sayisi = len(csv_dosyaları)
       print(f"VeriSetiYolu içerisinde {csv_dosya_sayisi} tane .csv dosyası bulunuyor.")
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_2.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
