@@ -256,7 +256,7 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü içerisine yeni bir klasör açarak işlemlere başlıyoruz. Yeni klasörün ismi "veriseti" olarak belirlenmiştir.
 
-asd
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
 
 
 İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
