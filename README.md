@@ -220,7 +220,7 @@ Bölüm 3. ->
 
 3.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
-         print("Merhaba, Avcılar!") 
+         print("Merhaba, İGÜ - İSTKA / Ders 1!") 
 
 ve 
 
