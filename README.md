@@ -365,7 +365,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 3.8 Verinin düzenlenmesi - Yenilenmesi İşlemleri
 
-
+![alternatif metin](
 
 
 
