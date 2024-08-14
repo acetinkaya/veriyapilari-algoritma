@@ -227,7 +227,7 @@ ve
         import sys
         print(sys.version)
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/GoogleColabBaglant%C4%B1s%C4%B1-10.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/DriveErisimi.png)
 
 kodları ile bağlantı kurgu sürecine başlıyoruz. 
 
@@ -248,7 +248,7 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
     
     !pwd
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli05.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
