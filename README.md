@@ -268,21 +268,9 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+3.4. -> Bağlantı İşlemlerinin Gerçekleştilmesi:
 
-
-
-
-
-
-
-
-
-
-
-
-3.4. -> İşlemler:
-
-    print("Merhaba, Avcılar!")
+    print("Merhaba, İGÜ - İSTKA / Ders 1!")
 
     import sys
     print(sys.version)
@@ -293,12 +281,18 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
     #Google Drive'daki Dosyaya Erişim Bağlantısı
     import os
-    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    os.chdir('/content/drive/My Drive/VERIYAPILARI_ISTKA')
     !pwd
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/tum_kod_1.png)
+![alternatif metin](![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
 
------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.4. -> Python Programalama Dili Kütüphaneleri
+
+
+
+
 
     import os
     import pandas as pd
