@@ -385,6 +385,8 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ![alternatif metin](
 
+![alternatif metin](
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
