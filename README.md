@@ -373,7 +373,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 3.8. devam
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti3.png) 
 
 ![alternatif metin](
 
