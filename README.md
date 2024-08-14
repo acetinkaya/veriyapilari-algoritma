@@ -300,6 +300,25 @@ BeautifulSoup
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli10.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+NOT: İlgili veri setinin ezbere kod yazımı veya kopyala-yapıştır şeklinde ilerleyişinde aşağıdaki şekillerde işlemler ile karşılaşacaksınız!!!!!!
+
+!!!! HATALI İŞLEMLER SONUCUNDA KARŞILAŞACAĞINIZ TABLO ve GÖRSELLER AŞAĞIDADIR....
+
+![alternatif metin](
+https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-2.png
+
+https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-4.png
+
+https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-5.png
+
+
+
+
+
+
+
 
 3.6. -> CSV formatına EXCEL Dosyasında Geçiş
 
