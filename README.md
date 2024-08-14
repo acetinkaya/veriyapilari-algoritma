@@ -365,9 +365,9 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 3.8 Verinin düzenlenmesi - Yenilenmesi İşlemleri
 
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti1.png)
+
 ![alternatif metin](
-
-
 
 
 
