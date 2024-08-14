@@ -286,6 +286,8 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/VeriSeti-1.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 3.5. -> Python Programalama Dili Kütüphaneleri ve İşlevleri
