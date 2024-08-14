@@ -258,12 +258,13 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
 
-
 İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
     Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
     ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Cop.png)
 
    Referans: İBB Çevre Koruma ve Kontrol Dairesi Başkanlığı (2024). Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari (Erişim Tarihi: 15.06.2024)
+
+İlgili link üzerinden veri setini indirip Drive alanındaki "veriseti" klasörüne yükleme gerçekleştirilecektir. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
