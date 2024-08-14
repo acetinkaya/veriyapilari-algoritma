@@ -244,7 +244,7 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
     import os
     
-    os.chdir('/content/drive/My Drive/YapayZekaIstanbul')
+    os.chdir('/content/drive/My Drive/VERIYAPILARI_ISTKA')
     
     !pwd
 
