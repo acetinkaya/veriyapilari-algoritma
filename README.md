@@ -356,6 +356,8 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel1.png)
 
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verigorsel3.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
