@@ -252,17 +252,32 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.3. -> Veri Görselleme teknikleriyle Doğru İşleml Sürecinin Başlatılması
+3.3. -> PYTHON Programlama dili üzerinde gerçek veriler üzerinde dosyalama işlemlerinin gerçekleştirilmesi
 
-Sizlerle Paylaşılmış Olan "yz-ikinci-islemler.ipynb" dosyası üzerinde işlemler gerçekleştirilmiştir ve sonuçlarıyla birlikte verilmiştir. Sizlerde aynı işlemleri gerçekleştirerek aynı sonucu elde edilmesi gerekmektedir.
+Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü içerisine yeni bir klasör açarak işlemlere başlıyoruz. Yeni klasörün ismi "veriseti" olarak belirlenmiştir.
 
-Farklı bir sonuç var ise ilgili işlem adımlarına geri dönerek tek tek sürecinizi kontrol edebilirsiniz. Benim tavsiyem Tüm koda yeniden başlamaktadır. 
+asd
 
-Çünkü bunu yapmaz iseniz hatanızı bulamazsınız. Buradaki amac en az hata ile sürecin kontrolünü öğürenmektir.
 
-Şimdi Koda Yeniden başlıyoruz...
+İstanbulun Çöpünden Geri Kazanım Miktarı ve çöpten elde edilen enerjinin Yapay Zeka Algoritmalarıyla İşlenerek Analizler Ortaya Çıkarılması
+    Veri Seti Kaynağı : İBB Açık Veri Portalı, Veri Seti Linki-->> [Veri Seti Linki-->>](https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari)
+    ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/2024-Istanbul-Cop.png)
+
+   Referans: İBB Çevre Koruma ve Kontrol Dairesi Başkanlığı (2024). Atıktan Geri Kazanım Miktarları (IBB ACIK VERI PORTALI; Version V2) [Veri seti]. İstanbul Büyük Şehir Belediyesi İBB Açık Veri Portalı. https://data.ibb.gov.tr/dataset/atiktan-geri-kazanim-miktarlari (Erişim Tarihi: 15.06.2024)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
 
 3.4. -> İşlemler:
 
