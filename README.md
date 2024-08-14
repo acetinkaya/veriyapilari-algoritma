@@ -284,11 +284,22 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
     os.chdir('/content/drive/My Drive/VERIYAPILARI_ISTKA')
     !pwd
 
-![alternatif metin](![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Verisetigorsel.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.4. -> Python Programalama Dili Kütüphaneleri
+3.5. -> Python Programalama Dili Kütüphaneleri ve İşlevleri
+
+Pandas,
+Numpy,
+Matplotlib,
+BeautifulSoup
+
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli10.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+3.6. -> asd
 
 
 
