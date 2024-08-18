@@ -65,7 +65,7 @@ DERS 0 -> Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve
 
 DERS 1 -> Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
-DERS 2 -> Python Değişkenler ve Veri Tipleri
+DERS 2 -> Python Değişkenler, Veri Tipleri ve Akış Diyagramları 
 
 DERS 3 -> Koşul Yapıları
 
