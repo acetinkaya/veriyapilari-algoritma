@@ -389,7 +389,9 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 7 -> 
+
+
+DERS 7 -> QUIZ - Fonksiyonlar ve Dosya İşlemleri
 
 DERS 8 -> Dosya İşlemleri ve Veri Görselleştirme
 
