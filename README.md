@@ -148,10 +148,10 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 1. Bölüm -> Çalışma Ortamının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
+# 1. DERS 1 -> Çalışma Ortamının Hazırlanması - Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Bölüm 2'ye geçmeden önce sistemimiz bağlamında kullanacağımız ortamların hazırlığı;
+## Dersin uygulamalarının yapılacağı ortamların hazırlığı;
 
 # 1. Github
 # 2. Google Drive
