@@ -59,8 +59,37 @@
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## DERS KONULARI -->
 
-## Giriş: Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
+DERS 0 -> Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
+
+DERS 1 -> Google Colab & Google Drive Ayarları (Python Programlama Dili)
+
+DERS 2 -> Python Değişkenler ve Veri Tipleri
+
+DERS 3 -> Koşul Yapıları
+
+DERS 4 -> Döngü Yapıları
+
+DERS 5 -> Koşul & Döngü Örnekleri
+
+DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
+
+DERS 7 -> QUIZ - Fonksiyonlar ve Dosya İşlemleri
+
+DERS 8 -> Dosya İşlemleri ve Veri Görselleştirme İşlemleri
+
+DERS 9 -> Sıralama Algoritmaları
+
+DERS 10 -> Arama ve Graf Algoritmaları
+
+DERS 11 -> Yığın ve Kuyruk Yapısı
+
+DERS 12 -> Grafik Programlama
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## DERS 0 -> Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
