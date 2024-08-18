@@ -389,19 +389,19 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 0 -> 
+DERS 0 -> Veri Yapıları ve Algoritmalar 
 
-DERS 1 ->
+DERS 1 -> Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
-DERS 2 ->
+DERS 2 -> Python Değişkenler ve Veri Tipleri
 
-DERS 3 -> 
+DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
-DERS 4 -> Python Programlama Dili Üzerinde Koşul Yapıları
+DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları
 
-DERS 5 -> Python Programlama Dili Üzerinde Koşul Yapıları
+DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
 
-DERS 6 -> Dizi ve Fonksiyonlar 
+DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
 
 DERS 7 -> QUIZ - Fonksiyonlar ve Dosya İşlemleri
 
