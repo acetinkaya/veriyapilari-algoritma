@@ -391,6 +391,11 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 DERS 9 -> Sıralama Algoritmaları
 
+
+DERS 10 -> Arama ve Graf Algoritmaları
+
+DERS 11 -> 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hz. Mevlana'nın Sözleriyle Eğitim serimizi tamamlıyoruz. 
