@@ -389,9 +389,17 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 4 -> 
+DERS 0 -> 
 
-DERS 5 -> 
+DERS 1 ->
+
+DERS 2 ->
+
+DERS 3 -> 
+
+DERS 4 -> Python Programlama Dili Üzerinde Koşul Yapıları
+
+DERS 5 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
 DERS 6 -> Dizi ve Fonksiyonlar 
 
