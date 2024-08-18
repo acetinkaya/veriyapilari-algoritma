@@ -420,25 +420,29 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 
 9. Prof. Dr. Eşref ADALI, "Bilişim Etiği ve Hukuku", İTÜ Ulusal Yazılım ve Sertifikasyon Merkezi, İstanbul, 2017.
 
-10. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", KODLAB Yayıncılık, İstanbul, 2022.
+10. Doç. Dr. Yılmaz KAYA, "Python ile Veri YAPILARI ve ALGORİTMA ANALİZİ", Nobel Yayınevi, Ankara, 2023.
 
-11. Dr. Yalçın ÖZKAN, "Uygulamalı Derin Öğrenme", Papatya Bilim Yayıncılık, İstanbul, 2021. 
+11. Dr. Atınç YILMAZ, Öğr. Gör. Umut KAYA, "Derin Öğrenme", KODLAB Yayıncılık, İstanbul, 2022.
 
-12. Dr. Andriy BURKOV, "The hundred-page machine learning" book (Vol. 1, p. 32). Quebec City, QC, Canada: Andriy Burkov, 2019. 
+12. Dr. Yalçın ÖZKAN, "Uygulamalı Derin Öğrenme", Papatya Bilim Yayıncılık, İstanbul, 2021. 
 
-13. Dr. Öğr. Üyesi Fahri VATANSEVER, "Algoritma Geliştirme ve Programlamaya Giriş", Seçkin Yayınları, Ankara, 2009.
+13. Dr. Andriy BURKOV, "The hundred-page machine learning" book (Vol. 1, p. 32). Quebec City, QC, Canada: Andriy Burkov, 2019. 
 
-14. Dr. Öğr. Üyesi Selçuk ALP & Arzu KİLİTCİ "Algoritmalar ve Programlamaya Giriş", Umuttepe Yayınları, Kocaeli, 2015.
+14. Dr. Öğr. Üyesi Fahri VATANSEVER, "Algoritma Geliştirme ve Programlamaya Giriş", Seçkin Yayınları, Ankara, 2009.
 
-15. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
+15. Dr. Öğr. Üyesi Selçuk ALP & Arzu KİLİTCİ, "Algoritmalar ve Programlamaya Giriş", Umuttepe Yayınları, Kocaeli, 2015.
 
-16. Öğr. Gör. Tuğba SARAY ÇETİNKAYA & Öğr. Gör. Ali ÇETİNKAYA, Algorithm Design in Programming Language Education - Özgür Yayınları, Gaziantep, 2023.
+16. Dr. Öğr. Üyesi Ebubekir YAŞAR, "Algoritma Ve Programlamaya Giriş", Ekin Basım Yayın, Bursa, 2015.
 
-17. Öğr. Gör. Ali ÇETİNKAYA, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi, İzmir, 2022.
+17. Öğr. Gör. Ali ÇETİNKAYA, "Bulanık Mantık ve Python Uygulamaları". İstanbul Gelişim Üniversitesi Yayınları, 2023.
 
-18. Öğr. Gör. Ali ÇETİNKAYA, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing, Ankara, 2023.
+18. Öğr. Gör. Tuğba SARAY ÇETİNKAYA & Öğr. Gör. Ali ÇETİNKAYA, Algorithm Design in Programming Language Education - Özgür Yayınları, Gaziantep, 2023.
 
-19. Öğr. Gör. Ali ÇETİNKAYA’nın internet sayfaları: 
+19. Öğr. Gör. Ali ÇETİNKAYA, Mühendislik Alanında Yapay Zeka (YZ) İçerikli Araştırmalarda Yaklaşımlar - Serüven Yayınevi, İzmir, 2022.
+
+20. Öğr. Gör. Ali ÇETİNKAYA, Approaches with Artificial Intelligence (AI) Algorithms to Smart System Works - Platanus Publishing, Ankara, 2023.
+
+21. Öğr. Gör. Ali ÇETİNKAYA’nın internet sayfaları: 
 
         https://scholar.google.com.tr/citations?hl=tr&user=XSEW-NcAAAAJ  
         https://avesis.gelisim.edu.tr/alcetinkaya
