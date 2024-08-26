@@ -245,7 +245,7 @@ Colaboratory -->
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## (2. ARA ) GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİŞTİR. ŞİMDİ VERIYAPILARI ve ALGORİTMALAR KURGUSUNUN OLUŞTURULMASI ve KODLANMASI SÜRECİNE GEÇİLECEKTİR!!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Bölüm 3. -> 
+## Bölüm 3. -> Python Dosya İşlemleri
 
 3.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
