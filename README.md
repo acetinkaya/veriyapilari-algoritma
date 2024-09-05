@@ -75,7 +75,7 @@ DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
 
 DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
 
-DERS 7 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // QUIZ_2  
+DERS 7 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D2_PythonDegiskenlerveVeriTipleri.ipynb)
 
 DERS 8 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
