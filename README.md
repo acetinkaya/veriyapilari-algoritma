@@ -418,7 +418,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-DERS 0 -> Veri Yapıları ve Algoritmalar 
+DERS 0 -> Veri Yapıları ve Algoritmalar Giriş
 
 DERS 1 -> Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
