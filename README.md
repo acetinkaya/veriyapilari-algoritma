@@ -438,7 +438,9 @@ DERS 8 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
 DERS 9 -> Sıralama Algoritmaları
 
-DERS 10 -> Arama ve Graf Algoritmaları
+DERS 10 -> Arama Algoritmaları
+
+
 
 DERS 11 -> Yığın ve Kuyruk Yapısı
 
