@@ -75,7 +75,7 @@ DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
 
 DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
 
-DERS 7 -> QUIZ - Python Dosya İşlemleri
+DERS 7 -> Python Dosya İşlemleri ve QUIZ_1 // QUIZ_2  
 
 DERS 8 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
