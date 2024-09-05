@@ -442,7 +442,7 @@ DERS 10 -> Arama Algoritmaları
 
 DERS 11 -> Graf Algoritmaları
 
-DERS 11 -> Yığın ve Kuyruk Yapısı
+DERS 12 -> Yığın ve Kuyruk Yapısı
 
 DERS 12 -> Grafik Programlama
 
