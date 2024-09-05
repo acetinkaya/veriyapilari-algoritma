@@ -61,31 +61,33 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
 
-DERS 0 -> Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
+DERS 0 -> Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi
 
 DERS 1 -> Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
-DERS 2 -> Python Değişkenler, Veri Tipleri ve Akış Diyagramları 
+DERS 2 -> Python Değişkenler ve Veri Tipleri
 
-DERS 3 -> Koşul Yapıları
+DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
-DERS 4 -> Döngü Yapıları
+DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları
 
-DERS 5 -> Koşul & Döngü Örnekleri
+DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
 
 DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
 
-DERS 7 -> QUIZ 1 & 2 - Python Dosya İşlemleri
+DERS 7 -> QUIZ - Python Dosya İşlemleri
 
 DERS 8 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
 DERS 9 -> Sıralama Algoritmaları
 
-DERS 10 -> Arama ve Graf Algoritmaları
+DERS 10 -> Arama Algoritmaları
 
-DERS 11 -> Yığın ve Kuyruk Yapısı
+DERS 11 -> Graf Algoritmaları
 
-DERS 12 -> Grafik Programlama
+DERS 12 -> Yığın ve Kuyruk Yapısı
+
+DERS 13 -> Grafik Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
