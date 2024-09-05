@@ -69,7 +69,7 @@ DERS 2 -> Python Değişkenler ve Veri Tipleri
 
 DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
-DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları
+DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları, İstisnalar & Hata Yönetimi
 
 DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
 
