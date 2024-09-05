@@ -61,11 +61,11 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
 
-# DERS 0 -> [Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D0_VeriYapilariveAlgoritmalar.ipynb)
+DERS 0 -> [Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D0_VeriYapilariveAlgoritmalar.ipynb)
 
-# DERS 1 -> [Python Programlama Dili](https://github.com/acetinkaya/veriyapilari-algoritma) & [Google Colab](https://github.com/acetinkaya/veriyapilari-algoritma?tab=readme-ov-file#1-ders-1---%C3%A7al%C4%B1%C5%9Fma-ortam%C4%B1n%C4%B1n-haz%C4%B1rlanmas%C4%B1---google-colab--google-drive-ayarlar%C4%B1-python-programlama-dili) & [Google Drive Ayarları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D1_Python_ilk_ayarlar.ipynb) 
+DERS 1 -> [Python Programlama Dili](https://github.com/acetinkaya/veriyapilari-algoritma) & [Google Colab](https://github.com/acetinkaya/veriyapilari-algoritma?tab=readme-ov-file#1-ders-1---%C3%A7al%C4%B1%C5%9Fma-ortam%C4%B1n%C4%B1n-haz%C4%B1rlanmas%C4%B1---google-colab--google-drive-ayarlar%C4%B1-python-programlama-dili) & [Google Drive Ayarları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D1_Python_ilk_ayarlar.ipynb) 
 
-DERS 2 -> Python Değişkenler ve Veri Tipleri
+DERS 2 -> [Python Değişkenler ve Veri Tipleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D2_PythonDegiskenlerveVeriTipleri.ipynb)
 
 DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
 
