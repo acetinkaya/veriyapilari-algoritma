@@ -160,7 +160,7 @@ Java; while, do-while ve for
 # 3. Google Colab -> https://colab.research.google.com/
 # 4. Kaggle -> https://www.kaggle.com/
 # 5. Google Scholar -> https://scholar.google.com/
-# 6. Dergipark -> 
+# 6. Dergipark -> https://dergipark.org.tr/tr/
 # 7. IEEE
 # 8. YÖK Tez ve Makale Yayınları
 # 9. Kongre Yayınları
