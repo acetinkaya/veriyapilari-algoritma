@@ -159,8 +159,8 @@ Java; while, do-while ve for
 # 2. Google Drive -> https://drive.google.com/
 # 3. Google Colab -> https://colab.research.google.com/
 # 4. Kaggle -> https://www.kaggle.com/
-# 5. Google Scholar
-# 6. Dergipark
+# 5. Google Scholar -> https://scholar.google.com/
+# 6. Dergipark -> 
 # 7. IEEE
 # 8. YÖK Tez ve Makale Yayınları
 # 9. Kongre Yayınları
