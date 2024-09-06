@@ -156,7 +156,7 @@ Java; while, do-while ve for
 ## Dersin uygulamalarının yapılacağı ortamların hazırlığı;
 
 # 1. Github -> https://github.com/ 
-# 2. Google Drive
+# 2. Google Drive -> https://drive.google.com/
 # 3. Google Colab
 
 # 4. Kaggle
