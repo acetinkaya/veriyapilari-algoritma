@@ -153,6 +153,7 @@ Java; while, do-while ve for
 # 1. DERS 1 -> Çalışma Ortamının Hazırlanması - Google Colab & Google Drive Ayarları (Python Programlama Dili)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Dersin uygulamalarının yapılacağı ortamların hazırlığı;
 
 1. Github --> https://github.com/ 
@@ -165,7 +166,9 @@ Java; while, do-while ve for
 8. YÖK Tez Yayınları --> https://tez.yok.gov.tr/UlusalTezMerkezi/
 9. Kongre Bildiri Yayınları
 
-Bilgisayarınızda Masaüstünde "VERIYAPILARI_ISTKA" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bilgisayarınızda Masaüstünde "PROJE" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
 1.1. Aşama -> Google Drive Sistemini Aktif Edin
 
@@ -173,7 +176,7 @@ Bilgisayarınızda Masaüstünde "VERIYAPILARI_ISTKA" ismiyle acacağınız yeni
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.2. Aşama -> Google Drive Alanında "VERIYAPILARI_ISTKA" ismiyle yeni klasör oluşturun
+1.2. Aşama -> Google Drive Alanında "PROJE" ismiyle yeni klasör oluşturun
    
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
 
@@ -250,7 +253,7 @@ Colaboratory -->
 
 3.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
-         print("Merhaba, İGÜ - İSTKA / Ders 7 !") 
+         print("Merhaba, İGÜ - İSTKA / Ders 1 !") 
 
 ve 
 
