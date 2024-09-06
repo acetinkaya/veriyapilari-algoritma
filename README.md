@@ -157,7 +157,7 @@ Java; while, do-while ve for
 
 # 1. Github -> https://github.com/ 
 # 2. Google Drive -> https://drive.google.com/
-# 3. Google Colab
+# 3. Google Colab -> https://colab.research.google.com/
 
 # 4. Kaggle
 # 5. Google Scholar
