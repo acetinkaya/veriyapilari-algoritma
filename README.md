@@ -160,10 +160,10 @@ Java; while, do-while ve for
 # 3. Google Colab -> https://colab.research.google.com/
 # 4. Kaggle -> https://www.kaggle.com/
 # 5. Google Scholar -> https://scholar.google.com/
-# 6. Dergipark -> https://dergipark.org.tr/tr/
-# 7. IEEE
-# 8. YÖK Tez ve Makale Yayınları
-# 9. Kongre Yayınları
+# 6. Dergipark Makale Yayınları -> https://dergipark.org.tr/tr/
+# 7. IEEE Makale Yayınları -> https://www.ieee.org/
+# 8. YÖK Tez Yayınları 
+# 9. Kongre Bildiri Yayınları
 
 Bilgisayarınızda Masaüstünde "VERIYAPILARI_ISTKA" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
