@@ -531,6 +531,17 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 15.	McFarlane, M. D. (1972). Digital pictures fifty years ago. Proceedings of the IEEE, 60(7), 768-770.
 16.	Turing, A. M. (1940). Mathematical theory of enigma machine. Public Record Office, London, 3, 150. 
 17.	Turing, A. M. (1948). Intelligent machinery. report for national physical laboratory. reprinted in ince, dc (editor). 1992. mechanical intelligence: Collected works of am turing.
+18.	McCarthy, J. (1955). Human-Level Ai Is Harder Than It Seemed. 
+19.	Rosenblatt, F. (1957). The perceptron, a perceiving and recognizing automaton Project Para. Cornell Aeronautical Laboratory.
+20.	Krizhevsky, A., Sutskever, I., & Hinton, G. E. (2017). Imagenet classification with deep convolutional neural networks. Communications of the ACM, 60(6), 84-90.
+21.	Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., ... & Bengio, Y. (2020). Generative adversarial networks. Communications of the ACM, 63(11), 139-144.
+22.	Özşahin, M. S. (2017). Türk minyatür tekniği ile çizgi roman tasarımı (Master's thesis). Kütahya Dumlupınar Üniversitesi, Sosyal Bilimler Enstitüsü.
+23.	Devlin, J., Chang, M. W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint arXiv:1810.04805.
+24.	Radford, A., Wu, J., Child, R., Luan, D., Amodei, D., & Sutskever, I. (2019). Language models are unsupervised multitask learners. OpenAI blog, 1(8), 9.
+25.	Ramesh, A., Pavlov, M., Goh, G., Gray, S., Voss, C., Radford, A., ... & Sutskever, I. (2021). Zero-shot text-to-image generation. In International Conference on Machine Learning (pp. 8821-8831). PMLR.
+26.	Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
+27.	LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
+28.	Vacroux, A. G. (1975). Microcomputers. Scientific American, 232(5), 32-41.
 
     
 <-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Temmuz 2024 -->
