@@ -51,9 +51,9 @@
 * Algoritma Geliştirme alanında sürdürülebilirlik sağlanması
 * Algoritma Geliştirme çalışmalarında gelişimin öğrenerek sağlanabilmesi
 
-## Eğitimimize başlamadan önce Yazılım, Algoritma, Programlama noktasında önemli olayların tarihsel sıralaması 
+## Tablo 1. Yazılım, Algoritma, Programlama noktasında dünya üzerinde önemli teknoloji gelişimleri (Tablo oluşumunda kullanılan referans listesi aşağıdadır.) 
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-4.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi1.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-7.png)
