@@ -53,7 +53,7 @@
 
 ## Tablo 1. Yazılım, Algoritma, Programlama noktasında dünya üzerinde önemli teknoloji gelişimleri (Tablo oluşumunda kullanılan referans listesi aşağıdadır.) 
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi1.png)
+https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi1.png
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi2.png)
 
