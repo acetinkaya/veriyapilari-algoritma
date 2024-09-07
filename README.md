@@ -55,7 +55,6 @@
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi1.png)
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-5.png)
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-6.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
