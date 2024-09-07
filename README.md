@@ -542,8 +542,16 @@ NOT: Bu kitaplar ülkemizin yapay zeka alanında ortaya çıkardığı çalışm
 26.	Topdemir, H. G. (2022). Takiyüddin İbn Ma'ruf. Bilgeler ve Bilginler: Cumhuriyetin 100. Yılına Armağan, Türk Kültürüne Hizmet Vakfı Yayın Evi, 524.
 27.	LeCun, Y., Bottou, L., Bengio, Y., & Haffner, P. (1998). Gradient-based learning applied to document recognition. Proceedings of the IEEE, 86(11), 2278-2324.
 28.	Vacroux, A. G. (1975). Microcomputers. Scientific American, 232(5), 32-41.
+29.	Deng, J., Dong, W., Socher, R., Li, L. J., Li, K., & Fei-Fei, L. (2009). Imagenet: A large-scale hierarchical image database. In 2009 IEEE conference on computer vision and pattern recognition (pp. 248-255). Ieee.
+30.	Çırak, B., & Yörük, A. (2016). Mekatronik biliminin öncüsü İsmail El-Cezeri. Siirt Üniversitesi Sosyal Bilimler Enstitüsü Dergisi, (4), 175-194.
+31.	Kato, I., Ohteru, S., Shirai, K., Matsushima, T., Narita, S., Sugano, S., ... & Fujisawa, E. (1987). The robot musician ‘wabot-2’(waseda robot-2). Robotics, 3(2), 143-155.
+32.	Spenko, M., Buerger, S., & Iagnemma, K. (Eds.). (2018). The DARPA robotics challenge finals: humanoid robots to the rescue (Vol. 121). Springer.
+33.	Lin, R., Ma, L., & Zhang, W. (2018). An interview study exploring Tesla drivers' behavioural adaptation. Applied ergonomics, 72, 37-47.
+34.	Google, (2017). Teachable machine v1. https://teachablemachine.withgoogle.com/v1/ Son Erişim Tarihi: 19.12.2022
+35.	Yang, Z., Gan, Z., Wang, J., Hu, X., Lu, Y., Liu, Z., & Wang, L. (2022). An empirical study of gpt-3 for few-shot knowledge-based vqa. In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 36, No. 3, pp. 3081-3089).
 
-    
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <-- Saygılarımla Öğr. Gör. Ali ÇETİNKAYA - Temmuz 2024 -->
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
