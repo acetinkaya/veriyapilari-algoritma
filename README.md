@@ -13,7 +13,7 @@
 
 ## Akademik hayatının birinci önceliği diploma verme kurumu olmadığı sektör ile öğrencilerimiz arasında köprü olmasının önemini vurgulanmalıdır.
 
-## Bu köprü sürecinde eğerki temellerinizi yazılım - algoritma - programlama ile desteklemeyenler platform oluşturamayacaktır.
+## Bu köprü sürecinde eğerki temellerinizi veri yapısı - algoritma - yazılım - programlama - uygulama ile destekleyenler etkili bir süreç geliştirebilecektir.
 
 ## Bu platformu kendi algoritmaları ile destekleyenler yeni meslekler ortaya çıktıkca adapte olabileceklerdir. 
 
