@@ -55,7 +55,7 @@
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi1.png)
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/YZ_Tarihcesi2.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi2.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
