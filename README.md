@@ -113,6 +113,13 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## <--Programlama Dillerinde Arttırma ve Azaltma İşlemlerinin Kavramı
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-2.png)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## <-- Akış Şeması ve Simgeler -->
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
