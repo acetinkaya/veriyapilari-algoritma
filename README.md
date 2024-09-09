@@ -108,7 +108,7 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <--Programlama Dillerine Mantıksal & Matematiksel Operatörlerin Önemi
+## <--Programlama Dillerinde Mantıksal & Matematiksel Operatörlerin Önemi
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
 
