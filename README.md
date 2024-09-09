@@ -110,7 +110,7 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 
 ## <--Programlama Dillerine Matematiksel İfadelerin Önemi
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-3.png )
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Programlama-1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## <-- Akış Şeması ve Simgeler -->
