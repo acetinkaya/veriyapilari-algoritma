@@ -35,7 +35,7 @@
 
 ## Eğitimin Amacı: Algoritma Geliştirme ve Analiz işlemlerinde uygulama + teorik şeklinde bütünleştirilerek tümleşik bir sistemin ortaya çıkarılması
 
-## Eğitiminlerin Kazanımları
+## Eğitimin Kazanımları
 
 * Algoritma Geliştirme çalışmalarında Türkçe literatürün önemi
 * Algoritma Geliştirme çalışmalarında Türkçe verilerin işleyebilmenin önemli
