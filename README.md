@@ -164,10 +164,6 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 1. DERS 1 -> Çalışma Ortamının Hazırlanması - Google Colab & Google Drive Ayarları (Python Programlama Dili)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## Derste kullanılacak platformlar  
 
 1. Github: Günümüz yazılım geliştirme sektörünün önemli bir platformdur. Erişim Adresi -> https://github.com/
@@ -183,11 +179,16 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 2. Bölüm -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB ve GOOGLE DRIVE
+# DERS 1 -> Derste Çalışacağımız Platformlarının Hazırlanması - GOOGLE COLAB, GOOGLE DRIVE, GITHUB, LINKEDIN
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
 
+# Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 Bilgisayarınızda Masaüstünde "PROJE" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
@@ -203,6 +204,9 @@ Bilgisayarınızda Masaüstünde "PROJE" ismiyle acacağınız yeni klasöre yü
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
