@@ -66,7 +66,7 @@ DERS 1 -> [Python Programlama Dili](https://github.com/acetinkaya/veriyapilari-a
 
 DERS 2 -> [Python Değişkenler ve Veri Tipleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D2_PythonDegiskenlerveVeriTipleri.ipynb)
 
-DERS 3 -> Python Programlama Dili Üzerinde Koşul Yapıları
+DERS 3 -> [Python Programlama Dili Üzerinde Koşul Yapıları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D3_Pythonkosulyapilari.ipynb)
 
 DERS 4 -> Python Programlama Dili Üzerinde Döngü Yapıları, İstisnalar & Hata Yönetimi
 
