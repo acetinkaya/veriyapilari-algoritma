@@ -76,7 +76,7 @@ DERS 6 -> Python Programlama Dili Üzerinde Dizi, Liste, Demet Kullanımı ve Ö
 
 DERS 7 -> Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri
 
-DERS 8 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz2_pythondosyaislemleri.ipynb)
+DERS 8 -> Python Programlama Dili üzerinde Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz2_pythondosyaislemleri.ipynb)
 
 DERS 9 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
