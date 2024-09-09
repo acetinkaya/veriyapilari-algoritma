@@ -72,7 +72,9 @@ DERS 4 -> [Python Programlama Dili Üzerinde Döngü Yapıları, İstisnalar & H
 
 DERS 5 -> [Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D5_PythonKosul_Dongu_ornekleri.ipynb)
 
-DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
+DERS 6 -> Python Programlama Dili Üzerinde Dizi, Liste, Demet Kullanımları
+
+DERS 7 -> Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri
 
 DERS 7 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz2_pythondosyaislemleri.ipynb)
 
@@ -84,7 +86,7 @@ DERS 10 -> Arama Algoritmaları
 
 DERS 11 -> Graf Algoritmaları
 
-DERS 12 -> Yığın ve Kuyruk Yapısı
+DERS 12 -> Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
 DERS 13 -> Grafik Programlama
 
