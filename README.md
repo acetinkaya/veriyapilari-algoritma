@@ -53,6 +53,8 @@
 
 ## Tablo 1. Yazılım, Algoritma, Programlama noktasında dünya üzerinde önemli teknoloji gelişimleri (Tablo oluşumunda kullanılan referans listesi aşağıdadır.) 
 
+El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. Algoritma ismi Harzemlinin isminden türetilmiştir. Matematik üzerinede önemli katkıları olan Harzemli cebirinde kurucusudur. Cebir kitabında denklem kurulması ve kareköklü ifadelerin çözümünü ve algoritmasını ele almıştır. 
+
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi1.png)
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Teknoloji_Tarihi2.png)
@@ -93,8 +95,6 @@ DERS 14 -> Grafik Programlama
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## DERS 0 -> Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve Programlamanın Önemi
-
-El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmaları nedeniyle bilimde algoritmaların mucidi olarak geçmektedir. Algoritma ismi Harzemlinin isminden türetilmiştir. Matematik üzerinede önemli katkıları olan Harzemli cebirinde kurucusudur. Cebir kitabında denklem kurulması ve kareköklü ifadelerin çözümünü ve algoritmasını ele almıştır. 
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Programlama-8.png)
 
