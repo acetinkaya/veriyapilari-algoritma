@@ -70,7 +70,7 @@ DERS 3 -> [Python Programlama Dili Üzerinde Koşul Yapıları](https://github.c
 
 DERS 4 -> [Python Programlama Dili Üzerinde Döngü Yapıları, İstisnalar & Hata Yönetimi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D4_PythonDonguYapilari.ipynb)
 
-DERS 5 -> Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri
+DERS 5 -> [Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D5_PythonKosul_Dongu_ornekleri.ipynb)
 
 DERS 6 -> Dizi, Liste ve Fonksiyonlar Kullanımları 
 
