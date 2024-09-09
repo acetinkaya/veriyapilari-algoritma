@@ -76,19 +76,19 @@ DERS 6 -> Python Programlama Dili Üzerinde Dizi, Liste, Demet Kullanımı ve Ö
 
 DERS 7 -> Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri
 
-DERS 7 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz2_pythondosyaislemleri.ipynb)
+DERS 8 -> Python Dosya İşlemleri ve [QUIZ_1](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz_pythondosyaislemleri.ipynb) // [QUIZ_2](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D7_PythonQuiz2_pythondosyaislemleri.ipynb)
 
-DERS 8 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
+DERS 9 -> Python Dosya İşlemleri ve Veri Görselleştirme İşlemleri
 
-DERS 9 -> Sıralama Algoritmaları
+DERS 10 -> Sıralama Algoritmaları
 
-DERS 10 -> Arama Algoritmaları
+DERS 11 -> Arama Algoritmaları
 
-DERS 11 -> Graf Algoritmaları
+DERS 12 -> Graf Algoritmaları
 
-DERS 12 -> Yığın, Kuyruk ve Bağlantılı Liste Yapısı
+DERS 13 -> Yığın, Kuyruk ve Bağlantılı Liste Yapısı
 
-DERS 13 -> Grafik Programlama
+DERS 14 -> Grafik Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
