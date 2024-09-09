@@ -60,7 +60,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DERS KONULARI -->
 
-DERS 0 -> [Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D0_VeriYapilariveAlgoritmalar.ipynb)
+DERS 0 -> [Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D0_VeriYapilariveAlgoritmalar.ipynb) ve [Veri Yapıları ve Algoritmalar - Yazılım Geliştirmede Algoritma ve Programlamanın Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/tree/main?tab=readme-ov-file#ders-0---veri-yap%C4%B1lar%C4%B1-ve-algoritmalar---yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-algoritma-ve-programlaman%C4%B1n-%C3%B6nemi)
 
 DERS 1 -> [Python Programlama Dili](https://github.com/acetinkaya/veriyapilari-algoritma) & [Google Colab](https://github.com/acetinkaya/veriyapilari-algoritma?tab=readme-ov-file#1-ders-1---%C3%A7al%C4%B1%C5%9Fma-ortam%C4%B1n%C4%B1n-haz%C4%B1rlanmas%C4%B1---google-colab--google-drive-ayarlar%C4%B1-python-programlama-dili) & [Google Drive Ayarları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D1_Python_ilk_ayarlar.ipynb) 
 
