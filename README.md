@@ -72,7 +72,7 @@ DERS 4 -> [Python Programlama Dili Üzerinde Döngü Yapıları, İstisnalar & H
 
 DERS 5 -> [Python Programlama Dili Üzerinde Koşul & Döngü Örnekleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D5_PythonKosul_Dongu_ornekleri.ipynb)
 
-DERS 6 -> Python Programlama Dili Üzerinde Dizi, Liste, Demet Kullanımı ve Örnekleri
+DERS 6 -> Python Programlama Dili Üzerinde Dizi, Liste, Demet, Sözlük Yapılarının Kullanımı ve Örnekleri
 
 DERS 7 -> Python Programlama Dili Üzerinde Fonksiyon Kullanımı ve Örnekleri
 
