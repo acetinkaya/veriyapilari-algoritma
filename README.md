@@ -190,18 +190,21 @@ Java; while, do-while ve for
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
-
-Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
-
-1.1. Aşama -> Google Drive Sistemini Aktif Edin
+1.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.2. Aşama -> Google Drive Alanında "PROJE" ismiyle yeni klasör oluşturun
+1.2. Aşama -> Google Drive Sistemini Aktif Edin ve Drive alanınızı açın.
+
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari2.png)
+
+Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1.2. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
    
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
 
