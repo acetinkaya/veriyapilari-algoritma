@@ -191,7 +191,9 @@ Java; while, do-while ve for
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Bilgisayarınızda Masaüstünde "PROJE" ismiyle acacağınız yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
+Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
+
+Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni klasöre yüklemesini - kaydedilmesi işlemlerini gerçekleştiriniz.
 
 1.1. Aşama -> Google Drive Sistemini Aktif Edin
 
