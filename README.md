@@ -204,9 +204,9 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.2. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
+1.3. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
    
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/veriyap%C4%B1lar%C4%B1-drive.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari3.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
