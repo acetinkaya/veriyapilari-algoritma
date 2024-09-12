@@ -195,7 +195,7 @@ Bilgisayarınızda Masaüstünde "PROJE" ismiyle acacağınız yeni klasöre yü
 
 1.1. Aşama -> Google Drive Sistemini Aktif Edin
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/verisetleri-gorseli01.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari1.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
