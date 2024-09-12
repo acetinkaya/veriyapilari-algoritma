@@ -210,18 +210,15 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+1.4. Aşama -> Google Drive Alanında "VERIYAPILARI_PYTHON" ismiyle yeni klasör oluşturun.
 
-
-
-
-
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari4.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 2.1. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
-![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Veriyapilari-colab2.png)
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
 
 Colaboratory -->
 
