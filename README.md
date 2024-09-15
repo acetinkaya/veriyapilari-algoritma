@@ -228,6 +228,8 @@ Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
 
+![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
+
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari6.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -235,7 +237,7 @@ Colaboratory -->
 
 
 
-![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
