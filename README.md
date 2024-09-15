@@ -234,7 +234,7 @@ Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari7.png)
 
-
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari8.png)
 
 
 
