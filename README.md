@@ -64,11 +64,7 @@ El-Harezmi -> Harzemli algoritmaların geliştirimesi üzerindeki çalışmalar�
 
 DERS 0 -> [Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D0_VeriYapilariveAlgoritmalar.ipynb) ve [Veri Yapıları ve Algoritmalar -> Yazılım Geliştirmede Algoritma & Programlamanın Önemi](https://github.com/acetinkaya/veriyapilari-algoritma/tree/main?tab=readme-ov-file#ders-0---veri-yap%C4%B1lar%C4%B1-ve-algoritmalar---yaz%C4%B1l%C4%B1m-geli%C5%9Ftirmede-algoritma-ve-programlaman%C4%B1n-%C3%B6nemi)
 
-DERS 1 -> Python Programlama Dili ile & [Google Colab](
-
-
-
-& [Google Drive Ayarları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D1_Python_ilk_ayarlar.ipynb) 
+DERS 1 -> Python Programlama Dili ile & [Google Colab](https://github.com/acetinkaya/veriyapilari-algoritma?tab=readme-ov-file#ders-1---derste-%C3%A7al%C4%B1%C5%9Faca%C4%9F%C4%B1m%C4%B1z-platformlar%C4%B1n%C4%B1n-haz%C4%B1rlanmas%C4%B1---google-colab-google-drive-github-linkedin) & [Google Drive Ayarları](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D1_Python_ilk_ayarlar.ipynb) 
 
 DERS 2 -> [Python Programlama Dili Değişken ve Veri Türleri](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/D2_PythonDegiskenlerveVeriTipleri.ipynb)
 
