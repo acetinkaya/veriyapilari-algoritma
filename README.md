@@ -216,21 +216,31 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2.1. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
+1.5. Aşama -> GOOGLE COLAB ve GOOGLE DRIVE YAPILANDIRMASI
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
 
-Colaboratory -->
+1.6. Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-5.png)
 
+1.7. 
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
+
+1.8. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
 
+1.9.
+
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
 
+1.10. 
+
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari6.png)
+
+1.11. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari7.png)
 
