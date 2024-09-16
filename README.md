@@ -268,11 +268,11 @@ GOOGLE DRIVE ve GOOGLE COLAB SİSTEMLERİNİN BAĞLANTISI GERÇEKLEŞTİRİLMİ�
 DERS 2 -> Python Programlama Dili Değişken ve Veri Türleri ile devam ediyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Bölüm 3. -> Python Dosya İşlemleri
+## DERS 8 -> Python Dosya İşlemleri
 
-3.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
+8.1. Aşama -> Bu aşamada Google Colab'a Google Drive Bağlantısı yapılarak verilerin çekileceği drive adresine erişim izni verilmektedir. Aşağıdaki 2 satır kod ile bağlantı işlemi kurulmadan önce örnek yazım ve kod çıktısı alma işlemini tamamlıyoruz.
 
-         print("Merhaba, İGÜ - İSTKA / Ders 1 !") 
+         print("Merhaba, İGÜ - VERIYAPILARI ve ALGORITMALAR / Ders 8 !") 
 
 ve 
 
@@ -292,7 +292,7 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.2. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
+8.2. Aşama -> Bu aşamada Google Drive'da ki klasöre erişim linkini işleme alıyoruz. Aşağıdaki 3 satır kod ile bu işlem gerçekleştirilmektedir.
 
     import os
     
@@ -304,7 +304,7 @@ kodları ile bağlantı kurgu sürecine başlıyoruz.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.3. -> PYTHON Programlama dili üzerinde gerçek veriler üzerinde dosyalama işlemlerinin gerçekleştirilmesi
+8.3. -> PYTHON Programlama dili üzerinde gerçek veriler üzerinde dosyalama işlemlerinin gerçekleştirilmesi
 
 Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü içerisine yeni bir klasör açarak işlemlere başlıyoruz. Yeni klasörün ismi "veriseti" olarak belirlenmiştir.
 
@@ -320,7 +320,7 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.4. -> Bağlantı İşlemlerinin Gerçekleştilmesi:
+8.4. -> Bağlantı İşlemlerinin Gerçekleştilmesi:
 
     print("Merhaba, İGÜ - İSTKA / Ders 1!")
 
@@ -342,7 +342,7 @@ Bu işlem için Google Drive Alanınıza Var Olan "VERIYAPILARI_ISTKA" klasörü
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.5. -> Python Programalama Dili Kütüphaneleri ve İşlevleri
+8.5. -> Python Programalama Dili Kütüphaneleri ve İşlevleri
 
 Pandas,
 Numpy,
@@ -370,7 +370,7 @@ NOT = İŞLEM AKIŞ SÜRECİNİ PLANLAYIP SIRASI İLE İLK OLUŞUMLAR GERÇEKLE�
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.6. -> CSV formatına EXCEL Dosyasında Geçiş
+8.6. -> CSV formatına EXCEL Dosyasında Geçiş
 
 Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini gerçekleştiriyoruz.
 
@@ -395,7 +395,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.7. -> Çevrim sonrasında dosya yoluna erişerek *.csv uzantılı kaç adet dosya bulunuyor onu sorguluyoruz.
+8.7. -> Çevrim sonrasında dosya yoluna erişerek *.csv uzantılı kaç adet dosya bulunuyor onu sorguluyoruz.
 
       import os
       import pandas as pd
@@ -415,7 +415,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.8 Verinin düzenlenmesi - Yenilenmesi İşlemleri
+8.8 Verinin düzenlenmesi - Yenilenmesi İşlemleri
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti1.png)
 
@@ -423,7 +423,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.8. devam
+8.8. devam ediyoruz.........
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti3.png) 
 
@@ -431,7 +431,7 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-3.9. Veri İşlemleri tamamlanınca elde edilen görseller
+8.9. Veri İşlemleri tamamlanınca elde edilen görseller
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti5.png)
 
@@ -440,6 +440,8 @@ Veri seti içerisindeki excel dosyalarını *.csv formatına çevirim işlemini 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriSeti7.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+DERS PLANI
 
 DERS 0 -> Veri Yapıları ve Algoritmalar Dersinin Kapsamı & Önemi
 
