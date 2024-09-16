@@ -264,16 +264,27 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari12.png)
 
+1.17. 
+
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-1.png)
+
+1.18. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-2.png)
 
+1.19. 
+
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-3.png)
+
+1.20. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-4.png)
 
+1.21. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari14.png)
+
+1.22. 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari15.png)
 
