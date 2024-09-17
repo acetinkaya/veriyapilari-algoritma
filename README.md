@@ -264,7 +264,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.13. 
+1.13. "D1_Python_ilk_ayarlar.ipynb" dosyasına çift tıklayıp açtığımızda karşımıza gelen çalışma ortamı... 
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari9.png)
 
