@@ -234,13 +234,13 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.8. 
+1.8. Google Drive'da Google Colab Kod Alanı Oluşturulması
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari5.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.9.
+1.9. Google Colab Üzerinde Oluşturulan Boş Kod Ekranı
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-8.png)
 
