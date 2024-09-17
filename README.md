@@ -130,7 +130,7 @@ DERS 14 -> Grafik Programlama
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## <-- Bir Akış Şeması Oluşturulmasınıda Kullanılan Simgeler -->
+## <-- Bir Akış Şeması Oluşturulmasında Kullanılan Simgeler -->
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/VeriYap%C4%B1lar%C4%B1veAlg%C4%B1ritmalarAk%C4%B1sSemas%C4%B1.jpg)
 
@@ -192,7 +192,6 @@ Java; while, do-while ve for
 # Github ve Linkedin için bir mail adresiniz üzerinden istenilen üyelikleri oluşturup işlemi tamamlıyorsunuz. 
 
 # Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
