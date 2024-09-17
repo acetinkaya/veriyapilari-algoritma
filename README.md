@@ -252,7 +252,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.11. 
+1.11. Drive Alanınız içerisinde "VERIYAPILARI_PYTHON" klasörü içerisinde "D1_Python_ilk_ayarlar.ipynb" olduğunu teyit ediyoruz...
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari7.png)
 
