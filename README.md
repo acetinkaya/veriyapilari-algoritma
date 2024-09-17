@@ -300,7 +300,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.19. 
+1.19. Mail adresine erişim izni..
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/GoogleColabBaglantisi-3.png)
 
