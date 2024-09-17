@@ -276,7 +276,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.15. 
+1.15. Python'da kütüphane ekleme komutu "import" dur. import sys diyerek çalışma ortamında python programının hangi sürümde oluğunu öğreneceğiz.
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari11.png)
 
