@@ -318,7 +318,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.22. 
+1.22. Google Drive klasör alanınıza erişim izni sağlanıyor. "!pwd" derlenen kodun tam derlendiğinde yaptığı işin ekran çıktısını sağlar. Silip denerseniz farklı görürsünüz.  
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari15.png)
 
