@@ -228,7 +228,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.7. 
+1.7. Colaboratory -->
 
 ![alternatif metin](https://github.com/acetinkaya/yapayzeka/blob/main/Colab-6.png)
 
