@@ -246,7 +246,7 @@ Daha sonra drive içerisinde "VERIYAPILARI_PYTHON" ismiyle vereceğiniz yeni kla
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-1.10. 
+1.10. Google Colab Çalışma dosyasının  "Untitled0.ipynb" İsmini "D1_Python_ilk_ayarlar.ipynb" ile değiştiriyoruz.
 
 ![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Proje-Asamalari6.png)
 
