@@ -193,6 +193,34 @@ Java; while, do-while ve for
 
 # Google Colab ve Drive için bir google mail adresi üzerinde aşağıdaki aşamaları tek tek gerçekleştirilmesi ve önemli noktaları yazarak not almanız gerekmektedir. Bu bağlamda  hangi aşamada hata alırsanız o kısımda durmanız ve bir adım geriye giderek süreci kontrol etmeniz gerekmektedir!
 
+Github Ayarları ve Github Paylaşımları - Yeni Paylaşım Ortamının Oluşturulması (Repositories - > New)
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github1.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github2.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github3.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github4.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github5.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github6_1.png)
+
+--------
+
+![alternatif metin](https://github.com/acetinkaya/ai_igu/blob/main/Github7.png)
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1.1. Bilgisayarınız üzerinde kullanıdğınız tarayıcıda google hesabınız aktif ederek, drive alanına bağlantı sağlayan. 
