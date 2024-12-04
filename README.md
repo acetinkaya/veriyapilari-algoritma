@@ -116,7 +116,7 @@ DERS 14 -> Grafik Programlama
 
 ## <--ASCII Tablosu
 
-![alternatif metin](
+![alternatif metin](https://github.com/acetinkaya/veriyapilari-algoritma/blob/main/Asci.png)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
